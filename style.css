@@ -21,15 +21,3 @@ align-items: left;
     border-radius: 600px;
     height: 50px;
 }
-#hxh-id-content{
-    background-color: darkgrey;
-    text-align: left;
-    color: white;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    border-radius: 0 0 20px 20px;
-}
-#idimagecontent{
-height: 600px;
-align-items: right;
-}
