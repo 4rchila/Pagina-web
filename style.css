@@ -21,3 +21,19 @@ align-items: left;
     border-radius: 600px;
     height: 50px;
 }
+main{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+#titulomain{
+    color: white;
+    font-size: 80px;
+}
+
+#sinopsis{
+    color: white;
+    font-size: 50px;
+}
+
