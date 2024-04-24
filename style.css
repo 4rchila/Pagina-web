@@ -21,3 +21,27 @@ align-items: left;
     border-radius: 600px;
     height: 50px;
 }
+
+/*Inicio división Jefferson*/
+
+#imagenizq{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+#resumen{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: darkgray;
+}
+#titulomain{
+    color: white;
+
+}
+#resumen{
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1f 1fr;
+}
+
+/*Final división Jefferson*/
