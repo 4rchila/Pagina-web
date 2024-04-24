@@ -21,3 +21,19 @@ align-items: left;
     border-radius: 600px;
     height: 50px;
 }
+
+
+
+
+#second-div-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px;
+    background-color: black;
+    color: white;
+}
+
+#argumento{
+text-align: left;
+color: white;
+}
